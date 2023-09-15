@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TechTaskDeveem</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="get_your_nbest_clothes">Get your\nBest Clothes!</string>
+    <string name="choose_what_you_need">Choose what you need</string>
+    <string name="category">Category</string>
+    <string name="the_best_only_for_you">The Best only for You!</string>
+    <string name="title">Title</string>
+    <string name="price">Price</string>
+    <string name="product_information">Product Information</string>
+    <string name="rating">Rating</string>
+    <string name="description">Description</string>
+    <string name="share">Share</string>
+    <string name="link">sdfghj;k\'lhugyfdfghj;k\'lkjlhjhgfgx</string>
+    <string name="cancel">Cancel</string>
+</resources>
